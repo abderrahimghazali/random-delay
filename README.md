@@ -412,3 +412,7 @@ Random delays are essential for building robust distributed systems:
 - **Rate limiting** - Respects API limits and prevents abuse
 
 Perfect for microservices, API clients, testing frameworks, and any system that needs intelligent delay strategies!
+
+---
+
+Made with ❤️ by [AbderrahimGHAZALI](https://github.com/abderrahimghazali) 
