@@ -379,7 +379,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/random-delay.git
+git clone https://github.com/abderrahimghazali/random-delay.git
 cd random-delay
 pip install -e ".[dev]"
 ```
